@@ -1,6 +1,6 @@
 ### Hi there 👋
 I am Ahmet Eren Gözübenli /
-Freshman at Bilkent University Computer Engineering Department
+Sophomore at Bilkent University Computer Engineering Department
 <!--
 **AEren46/AEren46** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
